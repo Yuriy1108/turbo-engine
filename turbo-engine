@@ -1,2 +1,3 @@
 print('Hello')
-print('Changed')
+print('Changed document')
+print('Changed in repozitory')
