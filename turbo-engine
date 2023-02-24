@@ -1,2 +1,7 @@
 print('Hello')
 print('Changed in repozitory')
+number = 0
+for i in range(5):
+  number += 1
+  print(number)
+
