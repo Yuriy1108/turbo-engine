@@ -5,6 +5,6 @@ for line in range(5):
     print(coll)
 number = 0
 for i in range(5):
-  number += 1
+  number += 2
   print(number)
 
