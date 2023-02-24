@@ -1,2 +1,5 @@
 print('Hello')
 print('Changed in repozitory')
+for line in range(5):
+    for coll in range(5):
+      print(coll)
