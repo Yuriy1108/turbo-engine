@@ -1,5 +1,4 @@
-print('Hello')
-print('Changed in repozitory')
+print('Hello friends')
 for line in range(5):
   for coll in range(5):
     print(coll)
