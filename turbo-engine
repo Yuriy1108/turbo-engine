@@ -4,7 +4,7 @@ for line in range(5):
   for coll in range(5):
     print(coll)
 number = 0
-for i in range(5):
-  number += 1
+for i in range(6):
+  number += 2
   print(number)
 
